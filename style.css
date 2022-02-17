@@ -163,6 +163,7 @@ body {
 
 .calltoaction {
   display: flex;
+  justify-content: center;
   gap: 144px;
   background-color: #3882F6;
   color: #F9FAF8;
@@ -177,6 +178,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+
 }
 
 .cta-title {
